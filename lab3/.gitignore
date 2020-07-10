@@ -1,0 +1,9 @@
+.settings
+Debug
+Drivers
+Middlewares
+.mxproject
+lab2 Debug.launch
+lab2.ioc
+STM32F429ZITX_FLASH.ld
+STM32F429ZITX_RAM.ld
